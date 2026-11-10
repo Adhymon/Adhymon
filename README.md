@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mochammad Fikry Adhim</h1>
+<h1 align="center">Hi 👋, I'm Fikry Adhim</h1>
 <h3 align="center">An Information Technology student interested in systems, networks, and artificial intelligence. I enjoy understanding how technology works, from the most basic layers to the user interface.</h3>
 
 - 🔭 I’m currently studying at **Telkom University**
